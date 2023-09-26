@@ -48,6 +48,6 @@ To use this project, follow these steps:
 Any acknowledgments or credits for external libraries, datasets, or resources used in the project can be mentioned here.
 
 ### Contact Information
-For any questions, suggestions, or issues regarding the project, please contact me at hemantbkgamer@gmail.com
+For any questions, suggestions, or issues regarding the project, please contact me at my mail ID.
 
 Happy analyzing!
